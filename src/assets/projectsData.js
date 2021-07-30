@@ -6,6 +6,7 @@ import keeperImage from "./../assets/keeper.PNG";
 import momListImage from "./../assets/momList.PNG";
 import portfolioImage from "./../assets/portfolio.PNG";
 import rpaImage from "./../assets/rpa.PNG";
+import textclass from "./../assets/textclass.png";
 
 
 const projectsData = [
@@ -49,10 +50,19 @@ const projectsData = [
     {
         projectName: 'Moms Grossery List!',
         projectDescription:
-            'As a developer/designer, you should definitely make a simple GrosserList App for your mom with a beutiful UI. Tools: React JS',
+            'As a developer/designer, you should definitely make a simple GrosseryList App for your mom with a beutiful UI. Tools: React JS',
         imageUrl: momListImage,
         projectUrl: 'https://m21g9.codesandbox.io/',
         sourceCode: 'https://github.com/ribhu0908/Grossery-List-forMom',
+    },
+
+    {
+        projectName: 'Text classification Model!',
+        projectDescription:
+            'Text classification ML Model, has been tested on 20k newspaper data using Multinomial Naive Bayes. It is absolutely coded from scratch using Python, no sklearn library.',
+        imageUrl: textclass,
+        projectUrl: 'https://github.com/ribhu0908/Text-Classification',
+        sourceCode: 'https://github.com/ribhu0908/Text-Classification',
     },
 
     {
@@ -70,7 +80,7 @@ const projectsData = [
         projectDescription:
             'My very own Portfolio website, which you are viewing right now! Tools: React JS(React hooks,routes,portals,CSS)',
         imageUrl: portfolioImage,
-        sourceCode: 'http://madhavbahl.tech/portfolio/',
+        sourceCode: 'https://github.com/ribhu0908/Portfolio/tree/master',
     },
 ];
 

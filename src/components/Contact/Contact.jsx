@@ -53,15 +53,15 @@ function Contact() {
                 </a>
 
                 <a href="https://www.linkedin.com/in/ribhu-mukherjee/" target="_blank" className="social-icon">
-                    <img src={linkedin} alt="github-link"></img>
+                    <img src={linkedin} alt="linkedin-link"></img>
                 </a>
 
                 <a href="https://instagram.com/ribhumukherjee" target="_blank" className="social-icon">
-                    <img src={instagram} alt="github-link"></img>
+                    <img src={instagram} alt="instagram-link"></img>
                 </a>
 
-                <a href="https://github.com/ribhu0908" target="_blank" className="social-icon">
-                    <img src={web} alt="github-link"></img>
+                <a href="https://ribhu0908.github.io/Portfolio/#/" target="_blank" className="social-icon">
+                    <img src={web} alt="website-link"></img>
                 </a>
             </div>
 

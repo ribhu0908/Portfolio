@@ -2,6 +2,7 @@ import CImage from "./../assets/cimage.png";
 import sql from "./../assets/sql.png";
 import ml from "./../assets/ml.png";
 import git from "./../assets/git.png";
+import python from "./../assets/python.png";
 
 
 export const skillList = [
@@ -34,6 +35,10 @@ export const skillList = [
         skillUrl: CImage,
     },
     {
+        skillName: 'Python',
+        skillUrl: python,
+    },
+    {
         skillName: 'MongoDB',
         skillUrl: 'https://madhavbahl.tech/portfolio-assets/mongo.png',
     },
@@ -49,4 +54,5 @@ export const skillList = [
         skillName: 'Git',
         skillUrl: git,
     },
+    
 ];

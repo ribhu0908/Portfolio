@@ -21,7 +21,7 @@ function About() {
                     {/*Subsection 1*/}
                     <h3 className="about-sub-head">Teacher</h3>
                     <p className="about-details">Teaching is my passion, Currently I am teaching thousands 
-                    of students about Programming,Data Structures and Algorithms. Check out my {' '} 
+                    of students about Programming,Data Structures and Algorithms. Currently I am a top Educator at Newton School. Check out my {' '} 
                     <a className="about-link-element" 
                     href="https://www.youtube.com/channel/UCQmlyuni9n40AjTnFnlvGBQ" 
                     target="_blank">My free DSA Master Class</a></p>
@@ -39,7 +39,7 @@ function About() {
                     {/*Subsection 3*/}
                     <h3 className="about-sub-head">Public Speaker</h3>
                     <p className="about-details"> Being a passionate public speaker, I've given talks at more than 
-                    8 engineering colleges/universities till now! Want me to speak in your event? {' '} 
+                    10 engineering colleges/universities till now! Want me to speak in your event? {' '} 
                     <a className="about-link-element" 
                     href="mailto:iribhumukherjee@gmail.com"  
                     target="_blank">Email me the details!</a></p>
